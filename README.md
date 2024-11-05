@@ -1,1 +1,3 @@
-# awesome1
+# awesome project
+
+@github
