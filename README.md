@@ -12,3 +12,5 @@ Nodepay
 Moongate
 
 Union
+
+Galxie
